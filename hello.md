@@ -3,7 +3,6 @@
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 
-- alvaroprz
 - mouredev
 - braismoure
 - Abiezerk
@@ -2648,3 +2647,4 @@
 - AlejoOsorio
 - MrClit
 - varoblanco
+- alvaroprz
